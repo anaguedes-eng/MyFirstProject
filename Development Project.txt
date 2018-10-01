@@ -1,3 +1,3 @@
 It is a test for our development project
 Here we have a second line
-Here we have a third line
+Here we have a third line.
