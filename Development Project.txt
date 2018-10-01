@@ -1,1 +1,2 @@
 It is a test for our development project
+Here we have a second line
